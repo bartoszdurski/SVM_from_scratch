@@ -46,4 +46,4 @@ To execute this script, ensure you have Python installed along with the followin
 You can install these dependencies using pip:
 
 ```bash
-pip install numpy pandas matplotlib
+pip install -r requirements.txt
